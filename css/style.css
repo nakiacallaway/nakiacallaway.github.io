@@ -1,0 +1,11 @@
+.carousel-inner > .carousel-item > img {
+    margin: 0 auto;
+  }
+
+body {
+    background-color: #222;
+}
+
+card > card-body {
+height: 200px
+}
